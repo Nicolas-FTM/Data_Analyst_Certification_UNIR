@@ -1,0 +1,2 @@
+Apreciados estudiantes, de acuerdo al informe presentado y las dashboard cumplen adecuadamente con el objetivo del laboratorio, trabajando el caso relacionado con las tiendas físicas y el estudio de funcionamiento de las mismas, buena elección el uso de mapas permite detectar fácilmente los huecos existentes en las diferentes zonas, justificaron adecuadamente cada decisión tomada respecto a la elección de gráficos y selección de variables, al igual que los escenarios que representan y los recursos empleados. Excelente trabajo.
+

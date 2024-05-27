@@ -1,0 +1,8 @@
+From me:
+
+Es importante que para ejecutar se lea el README.md y tener instalado node.js
+
+From they:
+
+Apreciados estudiantes presentaron su actividad teniendo en cuenta parte de la rúbrica, pues el proyecto funciona, exploraron el conjunto de datos, presentan muy bien la documentación, dan solución a la problemática planteada, utilizan gran parte de los recursos ofrecidos por la librería, para casos donde las opciones de las variables sean demasiado extensas algunos gráficos no son convenientes como las tortas seria conveniente usar uso de leyendas,  uso de las leyendas, tuvieron en cuenta el uso de tooltip. Continúen explorando y sacándole provecho al máximo a las herramientas proporcionadas.
+
