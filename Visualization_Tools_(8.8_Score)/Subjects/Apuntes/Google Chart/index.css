@@ -1,0 +1,14 @@
+/* Estilo del fichero (Archivo CSS) */
+p {
+    color: darkblue;
+    font-size: 200%;
+}
+#parrafouno {
+    color: red;
+}
+.miclase1 {
+    color: green;
+}
+.miclase2 {
+    font-size: 900%;
+}
